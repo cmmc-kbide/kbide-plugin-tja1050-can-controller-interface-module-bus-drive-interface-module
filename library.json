@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-tja1050-can-controller-interface-module-bus-drive-interface-module",
+  "title": "tja1050-can-controller-interface-module-bus-drive-interface-module",
+  "keywords": "tja1050-can-controller-interface-module-bus-drive-interface-module, esp32, esp8266, arduino",
+  "description": "tja1050-can-controller-interface-module-bus-drive-interface-module plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-tja1050-can-controller-interface-module-bus-drive-interface-module/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-tja1050-can-controller-interface-module-bus-drive-interface-module/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
